@@ -1,0 +1,7 @@
+C:\Users\haipa\OneDrive\Desktop\Client\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\haipa\OneDrive\Desktop\Client\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\haipa\OneDrive\Desktop\Client\Client\Client\bin\Debug\Client.exe.config
+C:\Users\haipa\OneDrive\Desktop\Client\Client\Client\bin\Debug\Client.exe
+C:\Users\haipa\OneDrive\Desktop\Client\Client\Client\bin\Debug\Client.pdb
+C:\Users\haipa\OneDrive\Desktop\Client\Client\Client\obj\Debug\Client.exe
+C:\Users\haipa\OneDrive\Desktop\Client\Client\Client\obj\Debug\Client.pdb
